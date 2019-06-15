@@ -7,7 +7,7 @@ postgres:
   pkg: postgresql
   pkgs_extra: []
   pkg_client: postgresql-client
-  pkg_dev: postgresql-server-dev
+  pkg_dev: postgresql-devel
   pkg_dev_deps: []
   pkg_libpq_dev: libpq-dev
   pkg_libs: postgresql-libs
